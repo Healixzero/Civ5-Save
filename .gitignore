@@ -20,3 +20,8 @@ Washington_0070 BC-1200.Civ5Save
 Washington_0118 AD-0075.Civ5Save
 Washington_0201 AD-1410.Civ5Save
 Washington_0502 AD-2051-January.Civ5Save
+
+.gitignore.swp
+.gitignore~
+README.md
+
